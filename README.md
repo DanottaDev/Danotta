@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/DanottaDev/Jornada-da-Esperanca/assets/172528965/4de9a823-f8ab-40e2-b174-85c28e0f9a58" alt="Jornada da Esperança Logo">
-</div>
+# Jornada da Esperança
 
 ## Descrição
 Bem-vindo ao repositório oficial de "Jornada da Esperança"! Este jogo desenvolvido pela Danotta Games visa conscientizar sobre a detecção precoce do câncer infantil, destacando a importância do apoio psicológico. Através de uma experiência de jogo única e envolvente, os jogadores acompanharão a jornada de três protagonistas enfrentando desafios e inimigos em várias fases.
